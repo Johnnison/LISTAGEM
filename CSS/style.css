@@ -1,0 +1,32 @@
+body{
+    margin: 0;
+    box-sizing: border-box;
+    font-family: Arial, sans-serif;
+    background-image:url(../IMG/ai-generated-8266786_1920.png)
+}
+
+
+.nav{
+    background-color:  #556b2fe8;
+    width: 100%;
+    top: 0;
+    height: 100px;
+    display: flex;
+    justify-content: space-between;
+}
+
+.logo{
+    color: white;
+    display: block;
+    padding: 14px 30px;
+}
+
+
+.nav2{
+    background-color: white;
+    width: 100%;
+    top: 0;
+    height: 70px;
+    display: flex;
+    justify-content: space-between;
+}
